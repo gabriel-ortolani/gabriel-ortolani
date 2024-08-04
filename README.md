@@ -32,11 +32,6 @@ tecnico em desenvolvimento de sistemas
   <a href="https://instagram.com/gabrielortolani12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href = "mailto:gabrielortolanisenai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://facebook.com/gabriel.ortolani.940" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23ffffff?style=for-the-badge&logo=facebook&logoColor=blue" target="_blank"></a>
-  ![Snake animation](https://github.com/gabriel-ortolani/gabriel-ortolani/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
   </div>
 <br>
 <h1 align="center">
