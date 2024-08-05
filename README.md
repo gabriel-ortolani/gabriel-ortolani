@@ -1,7 +1,7 @@
 ## Fala galera 👻
 
 📺animes favoritos:
-One piece/Black clover/Naruto
+One Piece/Black Clover/Jujutsu Kaisen
 
 🕹️games favoritos:
 Terraria/Forager/Genshin impact
