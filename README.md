@@ -26,6 +26,10 @@ tecnico em desenvolvimento de sistemas
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-ortolani&show_icons=true" />
 </picture>
 
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-ortolani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="125" alt="languages graph"  />
+</div>
+
 ##
 
 <div> 
