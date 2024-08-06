@@ -1,5 +1,8 @@
 ## Fala galera 👻
 
+<img align="right" height="125" 
+  src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif"  />
+
 📺animes favoritos:
 One Piece/Black Clover/Jujutsu Kaisen
 
