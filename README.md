@@ -1,6 +1,6 @@
 ## Fala galera 👻
 
-<img align="right" height="160" 
+<img align="right" height="120" 
   src="https://www.icegif.com/wp-content/uploads/2023/11/icegif-558.gif"/>
 
 📺animes favoritos:
