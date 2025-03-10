@@ -1,7 +1,7 @@
 ## Fala galera 👻
 
 <img align="right" height="100" 
-  src="https://www.icegif.com/wp-content/uploads/2023/11/icegif-558.gif"/>
+  src="https://github.com/user-attachments/assets/92aa6154-5dad-45fe-8867-59d4c8f2f7dbf"/>
 
 📺animes favoritos:
 One Piece/Black Clover/Jujutsu Kaisen
