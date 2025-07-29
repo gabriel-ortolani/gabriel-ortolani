@@ -1,19 +1,23 @@
-## olá sou o Gabriel
+# Olá! Sou Gabriel, futuro Engenheiro de Software.
 
-Estou cursando Curso Técnico em Desenvolvimento de Sistemas no SENAI Abrahão Jacob Lafer, durante esse período desenvolvi e aprimorei minhas habilidades em desenvolvimento de sites e aplicativos voltados tanto para desktop e mobile, além das capacidades de trabalho em equipe e comunicação com a equipe tornando o processo de desenvolvimento mais ágil e com o menor número de falhas.
+Atualmente curso o **Técnico em Desenvolvimento de Sistemas** no **SENAI Abrahão Jacob Lafer**, com conclusão prevista para o final de 2025. Durante essa trajetória, venho desenvolvendo e aprimorando minhas habilidades na criação de sites e aplicativos, com foco em soluções responsivas para **desktop** e **dispositivos móveis**.
 
-Skills:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
+Valorizo especialmente o **trabalho em equipe** e a **comunicação eficaz**, pois acredito que são fundamentais para tornar o desenvolvimento mais ágil e com menos falhas.
+
+Estou em busca de uma **oportunidade na área de desenvolvimento**, em um ambiente colaborativo, onde eu possa contribuir com a equipe, aprender continuamente e crescer profissionalmente.
+
+---
+
+## 🛠️ Competências técnicas
+
+**HTML** | **CSS** | **JavaScript** | **MySQL** | **JSON** | **PHP** | **Figma** | **Bootstrap** | **Scrum**
+
+---
+
+## 🔗 Projeto em destaque
+
+Projeto desenvolvido em equipe com outros alunos:  
+[github.com/StefanyLino/Sprint_ServHub](https://github.com/StefanyLino/Sprint_ServHub)
 
   </div>
 
