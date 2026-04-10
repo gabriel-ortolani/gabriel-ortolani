@@ -1,6 +1,8 @@
-# Olá! Sou Gabriel, futuro Engenheiro de Software.
+# Olá! Sou Gabriel, futuro Cientista da Computação.
 
-Atualmente curso o **Técnico em Desenvolvimento de Sistemas** no **SENAI Abrahão Jacob Lafer**, com conclusão prevista para o final de 2025. Durante essa trajetória, venho desenvolvendo e aprimorando minhas habilidades na criação de sites e aplicativos, com foco em soluções responsivas para **desktop** e **dispositivos móveis**.
+Atualmente, curso o **Bacharelado em Ciência da Computação** na Universidade **São Judas**. Neste primeiro semestre, venho desenvolvendo diversos projetos em **Java**, consolidando minha base em lógica e programação.
+
+Cursei **Técnico em Desenvolvimento de Sistemas** no **SENAI Abrahão Jacob Lafer**. Durante essa trajetória, venho desenvolvendo e aprimorando minhas habilidades na criação de sites e aplicativos, com foco em soluções responsivas para **desktop** e **dispositivos móveis**.
 
 Valorizo especialmente o **trabalho em equipe** e a **comunicação eficaz**, pois acredito que são fundamentais para tornar o desenvolvimento mais ágil e com menos falhas.
 
@@ -10,7 +12,7 @@ Estou em busca de uma **oportunidade na área de desenvolvimento**, em um ambien
 
 ## 🛠️ Competências técnicas
 
-**HTML** | **CSS** | **JavaScript** | **MySQL** | **JSON** | **PHP** | **Figma** | **Bootstrap** | **Scrum**
+**HTML** | **CSS** | **JavaScript** | **MySQL** | **JSON** | **PHP** | **JAVA** | **PYTHON** | **Figma** | **Bootstrap** | **Scrum**
 
 ---
 
